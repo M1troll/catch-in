@@ -1,2 +1,2 @@
-# catch-in
-Web application for personal expenses accounting
+# Setup
+* [Installing](docs/INSTALL.md)

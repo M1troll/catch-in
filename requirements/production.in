@@ -1,0 +1,25 @@
+# Comprehensive WSGI web application library
+# https://werkzeug.palletsprojects.com/en/2.2.x/
+Werkzeug
+
+# Database abstraction layer
+# https://pypi.org/project/psycopg2-binary/
+psycopg2-binary
+
+
+## Django
+django
+
+# filter querysets dynamically
+django-filter
+
+# Django REST Framework
+djangorestframework
+drf-nested-routers
+dj-rest-auth
+# Collection of global custom management extensions
+# https://django-extensions.readthedocs.io/en/latest/installation_instructions.html
+django-extensions
+
+# configure setting with env variables
+django-environ
